@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Fitness-Website-Public/static/css/main.e2b3bf31.css",
-    "main.js": "/Fitness-Website-Public/static/js/main.0a9675aa.js",
-    "static/media/home-img.png": "/Fitness-Website-Public/static/media/home-img.fd47de453152aaf94124.png",
-    "static/media/trainer-img6.jpg": "/Fitness-Website-Public/static/media/trainer-img6.de27ef5a9882631bcb66.jpg",
-    "static/media/trainer-img3.jpg": "/Fitness-Website-Public/static/media/trainer-img3.ab995179a045cf0adc65.jpg",
-    "static/media/about.jpg": "/Fitness-Website-Public/static/media/about.2bc6a3ae4569c319c6b1.jpg",
-    "static/media/trainer-img5.jpg": "/Fitness-Website-Public/static/media/trainer-img5.caee8633e74890d38fc8.jpg",
-    "static/media/trainer-img1.jpg": "/Fitness-Website-Public/static/media/trainer-img1.23c0db5a039bb452119f.jpg",
-    "static/media/trainer-img4.jpg": "/Fitness-Website-Public/static/media/trainer-img4.7e71c9775c062a50318c.jpg",
-    "static/media/trainer-img2.jpg": "/Fitness-Website-Public/static/media/trainer-img2.4075befd37ad409d5ac9.jpg",
-    "static/media/app-logo.png": "/Fitness-Website-Public/static/media/app-logo.e605857bc4de79c6dfa0.png",
-    "static/media/target.png": "/Fitness-Website-Public/static/media/target.afce30ae0cf9a4c2dfd0.png",
-    "index.html": "/Fitness-Website-Public/index.html",
-    "main.e2b3bf31.css.map": "/Fitness-Website-Public/static/css/main.e2b3bf31.css.map",
-    "main.0a9675aa.js.map": "/Fitness-Website-Public/static/js/main.0a9675aa.js.map"
+    "main.css": "/fitness-app/static/css/main.e2b3bf31.css",
+    "main.js": "/fitness-app/static/js/main.39d713a7.js",
+    "static/media/home-img.png": "/fitness-app/static/media/home-img.fd47de453152aaf94124.png",
+    "static/media/trainer-img6.jpg": "/fitness-app/static/media/trainer-img6.de27ef5a9882631bcb66.jpg",
+    "static/media/trainer-img3.jpg": "/fitness-app/static/media/trainer-img3.ab995179a045cf0adc65.jpg",
+    "static/media/about.jpg": "/fitness-app/static/media/about.2bc6a3ae4569c319c6b1.jpg",
+    "static/media/trainer-img5.jpg": "/fitness-app/static/media/trainer-img5.caee8633e74890d38fc8.jpg",
+    "static/media/trainer-img1.jpg": "/fitness-app/static/media/trainer-img1.23c0db5a039bb452119f.jpg",
+    "static/media/trainer-img4.jpg": "/fitness-app/static/media/trainer-img4.7e71c9775c062a50318c.jpg",
+    "static/media/trainer-img2.jpg": "/fitness-app/static/media/trainer-img2.4075befd37ad409d5ac9.jpg",
+    "static/media/app-logo.png": "/fitness-app/static/media/app-logo.e605857bc4de79c6dfa0.png",
+    "static/media/target.png": "/fitness-app/static/media/target.afce30ae0cf9a4c2dfd0.png",
+    "index.html": "/fitness-app/index.html",
+    "main.e2b3bf31.css.map": "/fitness-app/static/css/main.e2b3bf31.css.map",
+    "main.39d713a7.js.map": "/fitness-app/static/js/main.39d713a7.js.map"
   },
   "entrypoints": [
     "static/css/main.e2b3bf31.css",
-    "static/js/main.0a9675aa.js"
+    "static/js/main.39d713a7.js"
   ]
 }
