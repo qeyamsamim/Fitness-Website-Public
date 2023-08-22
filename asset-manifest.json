@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fitness-Website-Public/static/css/main.ece6ed05.css",
-    "main.js": "/Fitness-Website-Public/static/js/main.f3009933.js",
+    "main.css": "/Fitness-Website-Public/static/css/main.a5960f62.css",
+    "main.js": "/Fitness-Website-Public/static/js/main.b5558cda.js",
     "static/media/home-img.png": "/Fitness-Website-Public/static/media/home-img.fd47de453152aaf94124.png",
     "static/media/trainer-img6.jpg": "/Fitness-Website-Public/static/media/trainer-img6.de27ef5a9882631bcb66.jpg",
     "static/media/trainer-img3.jpg": "/Fitness-Website-Public/static/media/trainer-img3.ab995179a045cf0adc65.jpg",
@@ -12,11 +12,11 @@
     "static/media/trainer-img2.jpg": "/Fitness-Website-Public/static/media/trainer-img2.4075befd37ad409d5ac9.jpg",
     "static/media/app-logo.png": "/Fitness-Website-Public/static/media/app-logo.e605857bc4de79c6dfa0.png",
     "index.html": "/Fitness-Website-Public/index.html",
-    "main.ece6ed05.css.map": "/Fitness-Website-Public/static/css/main.ece6ed05.css.map",
-    "main.f3009933.js.map": "/Fitness-Website-Public/static/js/main.f3009933.js.map"
+    "main.a5960f62.css.map": "/Fitness-Website-Public/static/css/main.a5960f62.css.map",
+    "main.b5558cda.js.map": "/Fitness-Website-Public/static/js/main.b5558cda.js.map"
   },
   "entrypoints": [
-    "static/css/main.ece6ed05.css",
-    "static/js/main.f3009933.js"
+    "static/css/main.a5960f62.css",
+    "static/js/main.b5558cda.js"
   ]
 }
